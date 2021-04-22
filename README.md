@@ -17,3 +17,13 @@
             1.5.3 Contribution des individus aux axes (CTR).
         
         1.6. Représentation des variables – Outils pour l’aide à l’interprétation
+
+    2. Représentation des variables – Outils pour l’aide à l’interprétation
+    
+        2.1 Qualité de représentation des variables (COS²). 
+
+        2.2 Variables supplémentaires
+
+            2.2.1 Variables illustratives quantitatives
+
+            2.2.2 Variable illustrative qualitative
